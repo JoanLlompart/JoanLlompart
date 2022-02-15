@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 Currently studying **DAW dual degree at Francesc de Borja Moll CIFP.
+- 📚 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
+- 🖥️ Degree in **Microcomputer Systems and Networking Technician**
+- 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans**, **PyCharm**, **Atom** and **VSCode**.
+- 📫 My personal e-mail: juanllompart16@gmail.com 
