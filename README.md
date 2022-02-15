@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=JoanLlompart&color=blueviolet)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanLlompart&show_icons=true&theme=radical)
