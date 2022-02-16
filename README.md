@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 Currently studying **DAW dual degree at Francesc de Borja Moll CIFP.
+- 🌱 Currently studying **DAW dual** degree at Francesc de Borja Moll CIFP.
 - 📚 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
 - 🖥️ Degree in **Microcomputer Systems and Networking Technician**
 - 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** and **VSCode**.
