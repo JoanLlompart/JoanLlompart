@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 🖥️ Degree in **Microcomputer Systems and Networking Technician**
 - 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** and **VSCode**.
 - 📫 My personal e-mail: juanllompart16@gmail.com 
+- 📫 My student e-mail: jllompartsocias@cifpfbmoll.eu
