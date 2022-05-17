@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 - 📫 My personal e-mail: juanllompart16@gmail.com 
 - 📫 My student e-mail: jllompartsocias@cifpfbmoll.eu
 
+My Linkedin
 https://www.linkedin.com/in/joan-llompart-socias-a37bb1233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEfRIvhZoR4W1o7MirvEWWA%3D%3D
-
-
 
 --------
 
