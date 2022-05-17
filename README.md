@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 - 🌱 Currently studying **DAW dual** degree at Francesc de Borja Moll CIFP.
 - 📚 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
+- 📚 Learning various database management systems such as **MySQL** ,**MongoDB**.
+-  
 - 🖥️ Degree in **Microcomputer Systems and Networking Technician**
-- 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** and **VSCode**.
+- 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** ,**Eclipse** and **VSCode**.
 - 📫 My personal e-mail: juanllompart16@gmail.com 
 - 📫 My student e-mail: jllompartsocias@cifpfbmoll.eu
 
