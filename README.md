@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 Currently studying **DAW dual** degree at Francesc de Borja Moll CIFP.
+- 🌱 Currently studying **DAW ** degree at Es Liceu.
 - 📚 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
-- 📚 Learning various database management systems such as **MySQL** ,**MongoDB**.
+- 📚 Learning various database management systems such as **MySQL** ,**MongoDB**,**SQL**.
 -  
 - 🖥️ Degree in **Microcomputer Systems and Networking Technician**
 - 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** ,**Eclipse** and **VSCode**.
 - 📫 My personal e-mail: juanllompart16@gmail.com 
-- 📫 My student e-mail: jllompartsocias@cifpfbmoll.eu
+- 📫 My student e-mail: juanllompart16@gmail.com 
 
 My Linkedin
 https://www.linkedin.com/in/joan-llompart-socias-a37bb1233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEfRIvhZoR4W1o7MirvEWWA%3D%3D
