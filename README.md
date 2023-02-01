@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 Currently studying **DAW ** degree at Es Liceu.
+- 🌱 Currently studying **DAW** degree at Es Liceu.
 - 📚 Learning various programming lenguages such as **Java**, **Python** or **JavaScript**.
 - 📚 Learning various database management systems such as **MySQL** ,**MongoDB**,**SQL**.
 -  
