@@ -42,6 +42,13 @@ https://www.linkedin.com/in/joan-llompart-socias-a37bb1233?lipi=urn%3Ali%3Apage%
      
      
    ![Cerificado MongoDB University](https://user-images.githubusercontent.com/91556752/158361837-b0405c52-45dc-4bcf-adb2-1b63d7c07e43.jpeg)
+   
+
+## Basic JAVA Certificate
+
+
+  ![image](https://user-images.githubusercontent.com/91556752/216028833-228337ee-2ca5-4c9c-9bc2-8c0e17e83947.png)
+   
 
      
      
