@@ -48,6 +48,13 @@ https://www.linkedin.com/in/joan-llompart-socias-a37bb1233?lipi=urn%3Ali%3Apage%
 
 
   ![image](https://user-images.githubusercontent.com/91556752/216028833-228337ee-2ca5-4c9c-9bc2-8c0e17e83947.png)
+
+
+
+## Introduction to programming Certificate
+  
+![diplomas-8d85da09-17c9-4422-9bed-2f77056b376e-2](https://github.com/JoanLlompart/JoanLlompart/assets/91556752/0d759899-f28a-47b6-a179-93f07fb49ca1)
+
    
 
      
