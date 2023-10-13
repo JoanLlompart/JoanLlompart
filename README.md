@@ -56,6 +56,10 @@ https://www.linkedin.com/in/joan-llompart-socias-a37bb1233?lipi=urn%3Ali%3Apage%
 ![diplomas-8d85da09-17c9-4422-9bed-2f77056b376e-2](https://github.com/JoanLlompart/JoanLlompart/assets/91556752/0d759899-f28a-47b6-a179-93f07fb49ca1)
 
    
+## JavaScript freeCodeCamp certificate 
+
+<img width="1225" alt="Titol Js freeCodeCamp" src="https://github.com/JoanLlompart/JoanLlompart/assets/91556752/5758c3e1-bef6-43a9-81a8-c33a02a94209">
+
 
      
      
