@@ -13,7 +13,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoanLlompart&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+-----
 
+
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanLlompart&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
