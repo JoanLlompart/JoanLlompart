@@ -63,6 +63,9 @@ https://www.linkedin.com/in/joan-llompart-socias-a37bb1233?lipi=urn%3Ali%3Apage%
 
   ![image](https://user-images.githubusercontent.com/91556752/216028833-228337ee-2ca5-4c9c-9bc2-8c0e17e83947.png)
 
+## Open Webinars JAVA
+
+<img width="1122" alt="image" src="https://github.com/JoanLlompart/JoanLlompart/assets/91556752/3ec78b55-7bda-457b-ac98-f0d32bca9402">
 
 
 ## Introduction to programming Certificate
