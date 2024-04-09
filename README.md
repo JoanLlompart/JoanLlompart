@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 📚 Learning various database management systems such as **MySQL** ,**MongoDB**,**SQL**.
 -  
 - 🖥️ Degree in **Microcomputer Systems and Networking Technician**
-- 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** ,**Eclipse** and **VSCode**.
+- 🛠️ Used IDE'S and text editors such as **IntellIJ**, **NetBeans** ,**WebStorm**,**PhpStorm**,**Eclipse** and **VSCode**.
 - 📫 My personal e-mail: juanllompart16@gmail.com 
 - 📫 My student e-mail: juanllompart16@gmail.com 
 
